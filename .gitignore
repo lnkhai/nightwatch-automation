@@ -1,0 +1,7 @@
+*.jar
+*.log
+*.png
+*.jpg
+*.jpeg
+node_modules
+
